@@ -10,7 +10,7 @@
             }
         },
         "username": {
-            "loremWord": {
+            "loremWords": {
                 "minLength": 3,
                 "maxLength": 20
             }
