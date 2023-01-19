@@ -10,7 +10,10 @@
             }
         },
         "username": {
-            "loremWord": {}
+            "loremWord": {
+                "minLength": 3,
+                "maxLength": 20
+            }
         },
         "avatar": {
             "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
