@@ -1,0 +1,13 @@
+{
+    "user":{
+        "_":{
+            "items":10
+        },
+        "username":{
+            "loremWords":{
+                "minLength":3,
+                "maxLength":15
+            }
+        }
+    }
+}
